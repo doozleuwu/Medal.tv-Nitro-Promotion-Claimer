@@ -28,7 +28,7 @@
 
 ### Features
 * Pretty fast (threaded)
-* Custom amount of threads
+* Allows you to input a custom amount of threads
 * Proxy Supported 
 * Writes all the 3-month nitro promotion links into results/promos.txt
 * Uses your discord tokens that you provide in data/tokens.txt to claim nitro via medal.tv! (If you have no tokens, then you can't use this tool.)
