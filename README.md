@@ -9,7 +9,7 @@
   <h2 align="center">Medal.tv Nitro Promotion Claimer</h3>
 
   <p align="center">
-    Uses requests to register a medal.tv account and link your discord token(s) to claim the 3-month nitro promotion.
+    Uses requests to register a medal.tv account and link your discord token(s) to claim the 1-month nitro promotion.
     <br />
     <br />
     <a href="https://github.com/doozleuwu/Medal.tv-Nitro-Promotion-Claimer/issues">Report Bug</a>
@@ -30,7 +30,7 @@
 * Pretty fast (threaded)
 * HTTP/HTTPS proxy supported
 * Input custom amnt of threads
-* Writes all the 3-month nitro promotion links into results/promos.txt
+* Writes all the 1-month nitro promotion links into results/promos.txt
 * Uses your discord tokens that you provide in data/tokens.txt to claim nitro via medal.tv! (If you have no tokens, then you can't use this tool.)
 
 ---------------------------------------
