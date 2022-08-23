@@ -9,7 +9,7 @@
   <h2 align="center">Medal.tv Nitro Promotion Claimer</h3>
 
   <p align="center">
-    Uses requests to register a medal.tv account and link your discord token(s) to claim the 1-month nitro promotion.
+    [PATCHED] Uses requests to register a medal.tv account and link your discord token(s) to claim the 1-month nitro promotion.
     <br />
     <br />
     <a href="https://github.com/doozleuwu/Medal.tv-Nitro-Promotion-Claimer/issues">Report Bug</a>
